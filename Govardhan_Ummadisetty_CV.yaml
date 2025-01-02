@@ -3,12 +3,12 @@ cv:
   location: Banglore, KA
   email: vardhank9@gmail.com
   phone: tel:+91-9014420923
-  website: https://linktr.ee/susmigo
+  website: https://linktr.ee/susmigo1210
   social_networks:
     - network: LinkedIn
       username: susmigo1210
     - network: GitHub
-      username: susmigo
+      username: susmigo1210
 
   sections:
     Professional Summary:
@@ -69,7 +69,7 @@ cv:
 
     Tools created (other projects):
       - name: Go Command Line Interface (GoCLI)
-        date: "[github.com/susmigo/gocli](https://susmigo.github.io/gocli_guide/)"
+        date: "[github.com/susmigo/gocli](https://susmigo1210.github.io/gocli_guide/)"
         highlights:
           - Built using Python, Which helps the QA Testers in filing bugs and adding comments.
             Reduced the bug logging time by 60%.
