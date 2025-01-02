@@ -192,4 +192,5 @@ locale_catalog:
     - November
     - December
 rendercv_settings:
-  bold_keywords: []
+  render_command:
+    output_folder_name: resume
