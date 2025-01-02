@@ -62,7 +62,7 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 
 ## Go Command Line Interface (GoCLI)
 
-- [github.com/susmigo/gocli](https://susmigo1210.github.io/gocli_guide/)
+- [github.com/susmigo1210/gocli](https://susmigo1210.github.io/gocli_guide/)
 - Built using Python, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60%.
 - Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.
 - **Supported Form Factors:** Phone, TV, Tablet, and Watch
