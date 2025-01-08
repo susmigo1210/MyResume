@@ -610,7 +610,7 @@ July 2018 – Sept 2021
 == Awards & Recognization
 
 #one-col-entry(
-  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQEA64bWlBwoig/feedshare-shrink_1280/feedshare-shrink_1280/0/1717684202883?e=1737590400&v=beta&t=W4KZ_pPUkMEDnSMrJRxHFqpt7-938ofG43Ub-g3rlz8")[RnR Award 2024 from Infosys]. For Developing the QA Assistant tool #[*GoCli*].],
+  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQEA64bWlBwoig/feedshare-shrink_1280/feedshare-shrink_1280/0/1717684202883?e=1737590400&v=beta&t=W4KZ_pPUkMEDnSMrJRxHFqpt7-938ofG43Ub-g3rlz8")[RnR Award 2024 from Infosys]. For Developing the QA Assistant tool #[*#link("https://susmigo1210.github.io/gocli_guide/")[GoCli]*].],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
