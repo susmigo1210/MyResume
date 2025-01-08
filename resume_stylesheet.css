@@ -1,0 +1,116 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f9;
+    margin: 20px;
+    padding: 0 15px;
+}
+
+h1,
+h2 {
+    color: #2c3e50;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Article Container */
+.markdown-body {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact Info */
+.markdown-body ul li:first-child {
+    font-weight: bold;
+}
+
+/* Professional Summary */
+.markdown-body p {
+    margin: 10px 0;
+}
+
+/* Experience, Projects, Skills */
+.markdown-body h1+ul,
+.markdown-body h2+ul {
+    margin-top: 8px;
+}
+
+/* Code Snippets */
+strong {
+    color: #2c3e50;
+}
+
+/* List Formatting */
+.markdown-body ul li::before {
+    content: '\2022';
+    color: #3498db;
+    margin-right: 8px;
+}
+
+/* Awards & Recognitions */
+.markdown-body a:hover {
+    color: #2980b9;
+}
+
+/* Hobbies & Interests */
+.markdown-body h1:last-of-type {
+    margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        margin: 10px;
+    }
+
+    h1 {
+        font-size: 1.75em;
+    }
+
+    h2 {
+        font-size: 1.25em;
+    }
+
+    .markdown-body {
+        padding: 15px;
+    }
+}

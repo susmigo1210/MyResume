@@ -3,7 +3,7 @@
 - Phone: +91 90144 20923
 - Email: [vardhank9@gmail.com](mailto:vardhank9@gmail.com)
 - Location: Banglore, KA
-- Website: [linktr.eesusmigo1210](https://linktr.ee/susmigo1210)
+- Website: [linktr.ee/susmigo1210](https://linktr.ee/susmigo1210)
 - LinkedIn: [susmigo1210](https://linkedin.com/in/susmigo1210)
 - GitHub: [susmigo1210](https://github.com/susmigo1210)
 

@@ -1,4 +1,4 @@
-# <<cv.name>>'s CV
+# <<cv.name>>
 
 ((* if cv.phone *))
 - Phone: <<cv.phone|replace("tel:", "")|replace("-"," ")>>
@@ -10,7 +10,7 @@
 - Location: <<cv.location>>
 ((* endif *))
 ((* if cv.website *))
-- Website: [<<cv.website|replace("https://","")|replace("/","")>>](<<cv.website>>)
+- Website: [<<cv.website|replace("https://","")|replace("/","/")>>](<<cv.website>>)
 ((* endif *))
 ((* if cv.social_networks *))
     ((* for network in cv.social_networks *))
