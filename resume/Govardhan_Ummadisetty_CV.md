@@ -1,4 +1,4 @@
-# Govardhan Ummadisetty's CV
+# Govardhan Ummadisetty
 
 - Phone: +91 90144 20923
 - Email: [vardhank9@gmail.com](mailto:vardhank9@gmail.com)
