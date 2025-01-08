@@ -2,6 +2,10 @@
 #    uv pip compile pyproject.toml -o requirements.txt
 annotated-types==0.7.0
     # via pydantic
+beautifulsoup4==4.12.3
+    # via bs4
+bs4==0.0.2
+    # via myresume (pyproject.toml)
 click==8.1.8
     # via typer
 dnspython==2.7.0
@@ -10,7 +14,7 @@ email-validator==2.2.0
     # via rendercv
 idna==3.10
     # via email-validator
-jinja2==3.1.5
+jinja2==3.1.3
     # via rendercv
 markdown==3.7
     # via rendercv
@@ -22,21 +26,23 @@ mdurl==0.1.2
     # via markdown-it-py
 phonenumbers==8.13.52
     # via rendercv
-pydantic==2.10.4
+pycountry==24.6.1
+    # via rendercv
+pydantic==2.9.2
     # via
     #   pydantic-extra-types
     #   rendercv
-pydantic-core==2.27.2
+pydantic-core==2.23.4
     # via pydantic
 pydantic-extra-types==2.10.1
     # via rendercv
 pygments==2.18.0
     # via rich
-pymupdf==1.24.14
-    # via rendercv
-rendercv==1.18
+pyyaml==6.0.2
     # via myresume (pyproject.toml)
-rendercv-tinytex==0.2.0
+rendercv==2.0
+    # via myresume (pyproject.toml)
+rendercv-fonts==0.2.0
     # via rendercv
 rich==13.9.4
     # via typer
@@ -46,6 +52,8 @@ ruamel-yaml-clib==0.2.12
     # via ruamel-yaml
 shellingham==1.5.4
     # via typer
+soupsieve==2.6
+    # via beautifulsoup4
 typer==0.15.1
     # via rendercv
 typing-extensions==4.12.2
@@ -54,5 +62,7 @@ typing-extensions==4.12.2
     #   pydantic-core
     #   pydantic-extra-types
     #   typer
+typst==0.12.2
+    # via rendercv
 watchdog==6.0.0
     # via rendercv
