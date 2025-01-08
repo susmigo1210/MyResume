@@ -61,8 +61,7 @@ cv:
       - name: Google TV & Android TV Testing
         date: April-2022 -- present
         highlights:
-          - "**Client**: Google"
-          - "**Role**: QA Tester"
+          - "**Client**: Google, **Role**: QA Tester"
           - "**Responsibilities**: Conducted regression, smoke, and performance testing on both client and server side for Google TV, Android TV, and Google TV mobile."
           - Validated features such as Continue Watching, Gemini Integration, and Google Assistant & Search.
           - "**Devices Tested**: Google Chromecast 4K, Chromecast HD, Google TV Streamer, and Panel TVs like Sony, Hisense, and TCL."
@@ -74,8 +73,8 @@ cv:
           - Built using Python, Which helps the QA Testers in filing bugs and adding comments.
             Reduced the bug logging time by 60%.
           - Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.
-          - "**Supported Form Factors:** Phone, TV, Tablet, and Watch"
-          - "**Tools Used:** Python, shell scripting"
+          - "**Supported Form Factors:** Phone, TV, Tablet, and Watch."
+          - "**Tools Used:** Python, shell scripting."
 
       - name: Bug Report Extractor
         highlights:
@@ -113,7 +112,7 @@ cv:
           For writing the script to set up test environments."
 
     hobbies & interests:
-      - bullet: Building Tools and writing scripts using Python.
+      - bullet: Building Tools and writing scripts using Python & Javascript.
       - bullet: Reading Dev articles and tutorials.
       - bullet: Being an Audiophile.
       - bullet: Playing Desktop & Playstation games.
@@ -163,7 +162,7 @@ design:
     vertical_space_above: 0.5cm
     vertical_space_below: 0.3cm
   entries:
-    date_and_location_width: 4.15cm
+    date_and_location_width: 4.6cm
     left_and_right_margin: 0.2cm
     horizontal_space_between_columns: 0.1cm
     vertical_space_between_entries: 1.2em

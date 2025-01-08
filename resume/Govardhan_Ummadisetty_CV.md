@@ -52,8 +52,7 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 ## Google TV & Android TV Testing
 
 - April-2022 -- present
-- **Client**: Google
-- **Role**: QA Tester
+- **Client**: Google, **Role**: QA Tester
 - **Responsibilities**: Conducted regression, smoke, and performance testing on both client and server side for Google TV, Android TV, and Google TV mobile.
 - Validated features such as Continue Watching, Gemini Integration, and Google Assistant & Search.
 - **Devices Tested**: Google Chromecast 4K, Chromecast HD, Google TV Streamer, and Panel TVs like Sony, Hisense, and TCL.
@@ -65,8 +64,8 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 - [github.com/susmigo1210/gocli](https://susmigo1210.github.io/gocli_guide/)
 - Built using Python, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60%.
 - Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.
-- **Supported Form Factors:** Phone, TV, Tablet, and Watch
-- **Tools Used:** Python, shell scripting
+- **Supported Form Factors:** Phone, TV, Tablet, and Watch.
+- **Tools Used:** Python, shell scripting.
 
 ## Bug Report Extractor
 
@@ -90,7 +89,7 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 - [Insta Award 2022 from Infosys](https://media.licdn.com/dms/image/v2/C5622AQGmS4TywZYO7Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1669996323050?e=1737590400&v=beta&t=4lxGJdI1SJRUydLBf9mb0Z3w78_o66TZCvytgSi18MI). For writing the script to set up test environments.
 # Hobbies & Interests
 
-- Building Tools and writing scripts using Python.
+- Building Tools and writing scripts using Python & Javascript.
 - Reading Dev articles and tutorials.
 - Being an Audiophile.
 - Playing Desktop & Playstation games.

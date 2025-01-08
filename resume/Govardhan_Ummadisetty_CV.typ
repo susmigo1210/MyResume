@@ -43,7 +43,7 @@
 #let design-highlights-vertical-space-between-highlights = 0.25cm
 #let design-highlights-horizontal-space-between-bullet-and-highlights = 0.5em
 #let design-entries-vertical-space-between-entries = 1.2em
-#let design-entries-date-and-location-width = 4.15cm
+#let design-entries-date-and-location-width = 4.6cm
 #let design-entries-allow-page-break-in-entries = true
 #let design-entries-horizontal-space-between-columns = 0.1cm
 #let design-entries-left-and-right-margin = 0.2cm
@@ -542,7 +542,7 @@ July 2018 – Sept 2021
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([#[*Client*]: Google],[#[*Role*]: QA Tester],[#[*Responsibilities*]: Conducted regression, smoke, and performance testing on both client and server side for Google TV, Android TV, and Google TV mobile.],[Validated features such as Continue Watching, Gemini Integration, and Google Assistant & Search.],[#[*Devices Tested*]: Google Chromecast 4K, Chromecast HD, Google TV Streamer, and Panel TVs like Sony, Hisense, and TCL.],)
+    #v(design-highlights-top-margin);#highlights([#[*Client*]: Google, #[*Role*]: QA Tester],[#[*Responsibilities*]: Conducted regression, smoke, and performance testing on both client and server side for Google TV, Android TV, and Google TV mobile.],[Validated features such as Continue Watching, Gemini Integration, and Google Assistant & Search.],[#[*Devices Tested*]: Google Chromecast 4K, Chromecast HD, Google TV Streamer, and Panel TVs like Sony, Hisense, and TCL.],)
   ],
 )
 
@@ -560,7 +560,7 @@ July 2018 – Sept 2021
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Built using Python, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60\%.],[Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.],[#[*Supported Form Factors:*] Phone, TV, Tablet, and Watch],[#[*Tools Used:*] Python, shell scripting],)
+    #v(design-highlights-top-margin);#highlights([Built using Python, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60\%.],[Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.],[#[*Supported Form Factors:*] Phone, TV, Tablet, and Watch.],[#[*Tools Used:*] Python, shell scripting.],)
   ],
 )
 
@@ -629,7 +629,7 @@ July 2018 – Sept 2021
 == Hobbies & Interests
 
 #one-col-entry(
-  content: [- Building Tools and writing scripts using Python.],
+  content: [- Building Tools and writing scripts using Python & Javascript.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
