@@ -63,6 +63,8 @@ def main():
 
     write_html(file_stream=html_read_out, option="link", value="resume_stylesheet.css")
 
+    print("Done changes")
+
 
 if __name__ == "__main__":
     main()
