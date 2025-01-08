@@ -641,7 +641,7 @@ July 2018 – Sept 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Playing desktop games.],
+  content: [- Playing Desktop & Playstation games.],
 )
 
 

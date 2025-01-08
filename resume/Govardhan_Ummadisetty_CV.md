@@ -93,4 +93,4 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 - Building Tools and writing scripts using Python.
 - Reading Dev articles and tutorials.
 - Being an Audiophile.
-- Playing desktop games.
+- Playing Desktop & Playstation games.
