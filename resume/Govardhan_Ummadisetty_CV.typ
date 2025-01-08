@@ -457,7 +457,7 @@
 == Professional Summary
 
 #one-col-entry(
-  content: [Enthusiastic and meticulous QA Tester with over #[*3 years*] of experience in both #[*Manual and Automated testing*] Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.]
+  content: [Enthusiastic and meticulous QA Tester with over #[*3 years*] of experience in both #[*Manual and Automated testing*]. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.]
 )
 
 
