@@ -1,4 +1,4 @@
-name: Change HTML
+name: Change and Update HTML
 
 on:
   push:
@@ -32,11 +32,8 @@ jobs:
 
       - name: Commit the Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-
+          git config user.name myresume-bot
+          git config user.email myresume-bot@github.com
           git add .
-
           git commit -m "Automatic commit from GitHub Actions"
-
           git push origin main
