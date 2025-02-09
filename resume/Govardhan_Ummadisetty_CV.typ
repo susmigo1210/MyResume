@@ -3,7 +3,7 @@
 
 #let name = "Govardhan Ummadisetty"
 #let locale-catalog-page-numbering-style = context { "Govardhan Ummadisetty - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Jan 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Feb 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -23,7 +23,7 @@
 #let design-links-use-external-link-icon = false
 #let design-text-font-size = 10pt
 #let design-text-leading = 0.6em
-#let design-text-font-family = "Source Sans 3"
+#let design-text-font-family = "Fontin"
 #let design-text-alignment = "justified"
 #let design-text-date-and-location-column-alignment = right
 #let design-header-photo-width = 3.5cm
@@ -446,7 +446,7 @@
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Banglore, KA],
   [#box(original-link("mailto:vardhank9@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)vardhank9\@gmail.com])],
   [#box(original-link("tel:+91-90144-20923")[#fa-icon("phone", size: 0.9em) #h(0.05cm)090144 20923])],
-  [#box(original-link("https://linktr.ee/susmigo1210")[#fa-icon("link", size: 0.9em) #h(0.05cm)linktr.ee/susmigo1210])],
+  [#box(original-link("https://linktr.ee/susmigo1210")[#fa-icon("link", size: 0.9em) #h(0.05cm)linktr.ee\/susmigo1210])],
   [#box(original-link("https://linkedin.com/in/susmigo1210")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)susmigo1210])],
   [#box(original-link("https://github.com/susmigo1210")[#fa-icon("github", size: 0.9em) #h(0.05cm)susmigo1210])],
 )
@@ -457,7 +457,7 @@
 == Professional Summary
 
 #one-col-entry(
-  content: [Enthusiastic and meticulous QA Tester with over #[*3 years*] of experience in both #[*Manual and Automated testing*]. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.]
+  content: [Enthusiastic and meticulous QA Tester with over #strong[3 years] of experience in both #strong[Manual and Automated testing]. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.]
 )
 
 
@@ -465,7 +465,7 @@
 
 #two-col-entry(
   left-content: [
-    #[*Infosys Limited*], Technology Analyst
+    #strong[Infosys Limited], Technology Analyst
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Built a tool using Appscript and Google Sheets to automate test reporting, saving significant time.],)
@@ -480,10 +480,10 @@ Oct 2024 – present
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Infosys Limited*], Senior Systems Engineer
+    #strong[Infosys Limited], Senior Systems Engineer
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Automated few test cases for TV using Python and UI Automator, reducing testing effort by 40\%.],[Developed a Python script to set up test environments, reducing setup time by 30\% and streamlining ADB command usage.],[Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50\% and improving issue-tracking efficiency.],)
+    #v(design-highlights-top-margin);#highlights([Automated few test cases for TV using #strong[Python] and #strong[UI Automator], reducing testing effort by 40\%.],[Developed a #strong[Python] script to set up test environments, reducing setup time by 30\% and streamlining ADB command usage.],[Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50\% and improving issue-tracking efficiency.],)
   ],
   right-content: [
     Banglore, KA
@@ -495,7 +495,7 @@ Jan 2023 – Oct 2024
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Infosys Limited*], Systems Engineer
+    #strong[Infosys Limited], Systems Engineer
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Conducted regression, smoke, and performance testing on both client and server-side for Google TV and Android TV, ensuring compliance with product requirements.],[Streamlined testing processes by shortening lengthy ADB commands using Bash, ZSH scripting, and unbricking test devices, with comprehensive documentation for team use.],[Innovated and documented a VPN setup in the router to facilitate cross-border testing,  improving bandwidth by 80\% compared to traditional methods and eliminating geo-restriction constraints.],[Designed templates to provide developers with required test data and included logcat outputs and error details for efficient debugging.],[Analyzed product requirement documents \(PRD\) to plan and design comprehensive test suites, enhancing test coverage and quality assurance.],)
@@ -514,9 +514,9 @@ Dec 2021 – Jan 2023
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
-  left-content: [#[*BTECH*]],
+  left-content: [#strong[BTECH]],
   middle-content: [
-    #[*YSR Engineering of Yogi Vemana University*], Electrical & Electronics Engg
+    #strong[YSR Engineering of Yogi Vemana University], Electrical & Electronics Engg
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Worked on #link("https://www.nfedconferences.org/proceedings/IC-GRPETHR\%202021.pdf\#page=57")[Solar MPPT \(Maximum Power Point Tracking\)] using CNN.],[Worked as a part-time tester for Custom Rom android builds \(AOSP\).],)
@@ -534,7 +534,7 @@ July 2018 – Sept 2021
 
 #two-col-entry(
   left-content: [
-    #[*Google TV & Android TV Testing*]
+    #strong[Google TV & Android TV Testing]
   ],
   right-content: [
     April-2022 -- present
@@ -542,7 +542,7 @@ July 2018 – Sept 2021
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([#[*Client*]: Google, #[*Role*]: QA Tester],[#[*Responsibilities*]: Conducted regression, smoke, and performance testing on both client and server side for Google TV, Android TV, and Google TV mobile.],[Validated features such as Continue Watching, Gemini Integration, and Google Assistant & Search.],[#[*Devices Tested*]: Google Chromecast 4K, Chromecast HD, Google TV Streamer, and Panel TVs like Sony, Hisense, and TCL.],)
+    #v(design-highlights-top-margin);#highlights([#strong[Client]: Google, #strong[Role]: QA Tester],[#strong[Responsibilities]: Conducted regression, smoke, and performance testing on both client and server side for Google TV, Android TV, and Google TV mobile.],[Validated features such as Continue Watching, Gemini Integration, and Google Assistant & Search.],[#strong[Devices Tested]: Google Chromecast 4K, Chromecast HD, Google TV Streamer, and Panel TVs like Sony, Hisense, and TCL.],)
   ],
 )
 
@@ -552,15 +552,15 @@ July 2018 – Sept 2021
 
 #two-col-entry(
   left-content: [
-    #[*Go Command Line Interface \(GoCLI\)*]
+    #strong[Go Command Line Interface \(GoCLI\)]
   ],
   right-content: [
-    #link("https://susmigo1210.github.io/gocli_guide/")[github.com/susmigo1210/gocli]
+    #link("https://susmigo1210.github.io/gocli_guide/")[github.com\/susmigo1210\/gocli]
   ],
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Built using Python, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60\%.],[Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.],[#[*Supported Form Factors:*] Phone, TV, Tablet, and Watch.],[#[*Tools Used:*] Python, shell scripting.],)
+    #v(design-highlights-top-margin);#highlights([Built using #strong[Python], Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60\%.],[Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.],[#strong[Supported Form Factors:] Phone, TV, Tablet, and Watch.],[#strong[Tools Used:] #strong[Python], shell scripting.],)
   ],
 )
 
@@ -568,10 +568,10 @@ July 2018 – Sept 2021
 
 #one-col-entry(
   content: [
-    #[*Bug Report Extractor*]
+    #strong[Bug Report Extractor]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Created with Python, which parses the raw bug report and generates a new file with device details like build info, a list of packages with version names, and version code in a pretty tabular format.],)
+    #v(design-highlights-top-margin);#highlights([Created with #strong[Python], which parses the raw bug report and generates a new file with device details like build info, a list of packages with version names, and version code in a pretty tabular format.],)
   ],
 )
 
@@ -580,37 +580,37 @@ July 2018 – Sept 2021
 == Skills
 
 #one-col-entry(
-  content: [#[*Hard Skills:*] Manual & Automation testing, Log Monitoring and Analysis, Automating repetitive tasks.]
+  content: [#strong[Hard Skills:] Manual & Automation testing, Log Monitoring and Analysis, Automating repetitive tasks]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Soft Skills:*] Attention to Detail, Problem-Solving, Communication Skills, Team Collaboration, Time Management, Adaptability & Proactive Mindset.]
+  content: [#strong[Soft Skills:] Attention to Detail, Problem-Solving, Communication Skills, Team Collaboration, Time Management, Adaptability & Proactive Mindset]
 )
 
 
 == Technologies
 
 #one-col-entry(
-  content: [#[*OS:*] Mac OS, Linux, Windows.]
+  content: [#strong[OS:] Mac OS, Linux, Windows]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Tools:*] Android Flash tool, QPST, Issue Tracker, Google Workspace.]
+  content: [#strong[Tools:] Android Flash tool, QPST, Issue Tracker, Google Workspace]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Languages:*] Python, Javascript, Appscript.]
+  content: [#strong[Languages:] #strong[Python], Javascript, Appscript]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Frameworks:*] UI Automator, Typer, Flet.]
+  content: [#strong[Frameworks:] #strong[UI Automator], Typer, Flet]
 )
 
 
 == Awards & Recognization
 
 #one-col-entry(
-  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQEA64bWlBwoig/feedshare-shrink_1280/feedshare-shrink_1280/0/1717684202883?e=1737590400&v=beta&t=W4KZ_pPUkMEDnSMrJRxHFqpt7-938ofG43Ub-g3rlz8")[RnR Award 2024 from Infosys]. For Developing the QA Assistant tool #[*#link("https://susmigo1210.github.io/gocli_guide/")[GoCli]*].],
+  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQEA64bWlBwoig/feedshare-shrink_1280/feedshare-shrink_1280/0/1717684202883?e=1737590400&v=beta&t=W4KZ_pPUkMEDnSMrJRxHFqpt7-938ofG43Ub-g3rlz8")[RnR Award 2024 from Infosys]. For Developing the QA Assistant tool #strong[#link("https://susmigo1210.github.io/gocli_guide/")[GoCli]].],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -629,7 +629,7 @@ July 2018 – Sept 2021
 == Hobbies & Interests
 
 #one-col-entry(
-  content: [- Building Tools and writing scripts using Python & Javascript.],
+  content: [- Building Tools and writing scripts using #strong[Python] & Javascript.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

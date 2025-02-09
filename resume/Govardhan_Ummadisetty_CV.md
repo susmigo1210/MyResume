@@ -24,8 +24,8 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 
 - Jan 2023 – Oct 2024
 - Banglore, KA
-- Automated few test cases for TV using Python and UI Automator, reducing testing effort by 40%.
-- Developed a Python script to set up test environments, reducing setup time by 30% and streamlining ADB command usage.
+- Automated few test cases for TV using **Python** and **UI Automator**, reducing testing effort by 40%.
+- Developed a **Python** script to set up test environments, reducing setup time by 30% and streamlining ADB command usage.
 - Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50% and improving issue-tracking efficiency.
 
 ## Infosys Limited, Systems Engineer
@@ -62,14 +62,14 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 ## Go Command Line Interface (GoCLI)
 
 - [github.com/susmigo1210/gocli](https://susmigo1210.github.io/gocli_guide/)
-- Built using Python, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60%.
+- Built using **Python**, Which helps the QA Testers in filing bugs and adding comments. Reduced the bug logging time by 60%.
 - Automatically collects the test data like bug reports, screenshots, and logcat which are required by the developers for debugging.
 - **Supported Form Factors:** Phone, TV, Tablet, and Watch.
-- **Tools Used:** Python, shell scripting.
+- **Tools Used:** **Python**, shell scripting.
 
 ## Bug Report Extractor
 
-- Created with Python, which parses the raw bug report and generates a new file with device details like build info, a list of packages with version names, and version code in a pretty tabular format.
+- Created with **Python**, which parses the raw bug report and generates a new file with device details like build info, a list of packages with version names, and version code in a pretty tabular format.
 
 # Skills
 
@@ -79,8 +79,8 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 
 - OS: Mac OS, Linux, Windows.
 - Tools: Android Flash tool, QPST, Issue Tracker, Google Workspace.
-- Languages: Python, Javascript, Appscript.
-- Frameworks: UI Automator, Typer, Flet.
+- Languages: **Python**, Javascript, Appscript.
+- Frameworks: **UI Automator**, Typer, Flet.
 # Awards & Recognization
 
 - [RnR Award 2024 from Infosys](https://media.licdn.com/dms/image/v2/D5622AQEA64bWlBwoig/feedshare-shrink_1280/feedshare-shrink_1280/0/1717684202883?e=1737590400&v=beta&t=W4KZ_pPUkMEDnSMrJRxHFqpt7-938ofG43Ub-g3rlz8). For Developing the QA Assistant tool **[GoCli](https://susmigo1210.github.io/gocli_guide/)**.
@@ -89,7 +89,7 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 - [Insta Award 2022 from Infosys](https://media.licdn.com/dms/image/v2/C5622AQGmS4TywZYO7Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1669996323050?e=1737590400&v=beta&t=4lxGJdI1SJRUydLBf9mb0Z3w78_o66TZCvytgSi18MI). For writing the script to set up test environments.
 # Hobbies & Interests
 
-- Building Tools and writing scripts using Python & Javascript.
+- Building Tools and writing scripts using **Python** & Javascript.
 - Reading Dev articles and tutorials.
 - Being an Audiophile.
 - Playing Desktop & Playstation games.
