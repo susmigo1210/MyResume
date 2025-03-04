@@ -610,19 +610,19 @@ July 2018 – Sept 2021
 == Awards & Recognization
 
 #one-col-entry(
-  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQEA64bWlBwoig/feedshare-shrink_1280/feedshare-shrink_1280/0/1717684202883?e=1737590400&v=beta&t=W4KZ_pPUkMEDnSMrJRxHFqpt7-938ofG43Ub-g3rlz8")[RnR Award 2024 from Infosys]. For Developing the QA Assistant tool #strong[#link("https://susmigo1210.github.io/gocli_guide/")[GoCli]].],
+  content: [- #link("https://www.linkedin.com/posts/susmigo1210_grateful-riseaward-achievement-activity-7204489729801678849-Yn_7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABk3mYwBsVcGM2VGtrE1R5TQz2zTNn4Hmjg")[RnR Award 2024 from Infosys]. For Developing the QA Assistant tool #strong[#link("https://susmigo1210.github.io/gocli_guide/")[GoCli]].],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQF6D1znOZFBqw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1712853041179?e=1737590400&v=beta&t=KZFeMril86E8BwjlAOnaFXRJV_LUO2CByhGHJC6Z35Y")[RISE Award 2023 from Infosys]. Recognized for creating the VPN setup.],
+  content: [- #link("https://www.linkedin.com/posts/susmigo1210_celebrating-a-milestone-achievement-activity-7184226368883159041-eLWU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABk3mYwBsVcGM2VGtrE1R5TQz2zTNn4Hmjg")[RISE Award 2023 from Infosys]. Recognized for creating the VPN setup.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #link("https://media.licdn.com/dms/image/v2/D5622AQF3kXcN1EZ9yA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1684258474806?e=1737590400&v=beta&t=m-fkwha-bnBCg_boQJ4Lfdsi8VQKByiYz4B5Jm4329o")[Insta Award 2023 from Infosys]. Recognized for documenting the server side setup and Testing Process.],
+  content: [- #link("https://www.linkedin.com/posts/susmigo1210_work-gratitude-infy-activity-7064292061868392449-Ehdg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABk3mYwBsVcGM2VGtrE1R5TQz2zTNn4Hmjg")[Insta Award 2023 from Infosys]. Recognized for documenting the server side setup and Testing Process.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #link("https://media.licdn.com/dms/image/v2/C5622AQGmS4TywZYO7Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1669996323050?e=1737590400&v=beta&t=4lxGJdI1SJRUydLBf9mb0Z3w78_o66TZCvytgSi18MI")[Insta Award 2022 from Infosys]. For writing the script to set up test environments.],
+  content: [- #link("https://www.linkedin.com/posts/susmigo1210_infydiaries-infy-work-activity-7004472263089553408-9D-0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABk3mYwBsVcGM2VGtrE1R5TQz2zTNn4Hmjg")[Insta Award 2022 from Infosys]. For writing the script to set up test environments.],
 )
 
 
