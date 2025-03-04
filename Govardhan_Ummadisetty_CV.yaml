@@ -31,7 +31,7 @@ cv:
         start_date: 2023-01
         end_date: 2024-10
         highlights:
-          - Automated few test cases for TV using Python and UI Automator, reducing testing effort by 40%.
+          - Automated few test cases for TV using Python and UI Automator, reducing testing effort by 40% .
           - Developed a Python script to set up test environments, reducing setup time by 30% and streamlining ADB command usage.
           - Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50% and improving issue-tracking efficiency.
       - company: Infosys Limited
