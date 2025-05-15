@@ -10,7 +10,7 @@
 
 # Professional Summary
 
-Enthusiastic and meticulous QA Tester with over **3 years** of experience in both **Manual and Automated testing**. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.
+Enthusiastic and meticulous QA Tester with over **3.5 years** of experience in both **Manual and Automated testing**. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.
 
 # Experience
 
@@ -24,7 +24,7 @@ Enthusiastic and meticulous QA Tester with over **3 years** of experience in bot
 
 - Jan 2023 – Oct 2024
 - Banglore, KA
-- Automated few test cases for TV using **Python** and **UI Automator**, reducing testing effort by 40%.
+- Automated few test cases for TV using **Python** and **UI Automator**, reducing testing effort by 40% .
 - Developed a **Python** script to set up test environments, reducing setup time by 30% and streamlining ADB command usage.
 - Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50% and improving issue-tracking efficiency.
 

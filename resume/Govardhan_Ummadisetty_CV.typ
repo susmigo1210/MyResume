@@ -457,7 +457,7 @@
 == Professional Summary
 
 #one-col-entry(
-  content: [Enthusiastic and meticulous QA Tester with over #strong[3 years] of experience in both #strong[Manual and Automated testing]. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.]
+  content: [Enthusiastic and meticulous QA Tester with over #strong[3.5 years] of experience in both #strong[Manual and Automated testing]. Demonstrated ability to identify and resolve bugs, enhance software quality, and streamline processes. Skilled in collaborating within Agile teams to ensure the delivery of top-notch software products. Continuously learning and adapting to new testing tools, methodologies, and industry trends to provide optimal testing solutions.]
 )
 
 
@@ -483,7 +483,7 @@ Oct 2024 – present
     #strong[Infosys Limited], Senior Systems Engineer
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Automated few test cases for TV using #strong[Python] and #strong[UI Automator], reducing testing effort by 40\%.],[Developed a #strong[Python] script to set up test environments, reducing setup time by 30\% and streamlining ADB command usage.],[Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50\% and improving issue-tracking efficiency.],)
+    #v(design-highlights-top-margin);#highlights([Automated few test cases for TV using #strong[Python] and #strong[UI Automator], reducing testing effort by 40\% .],[Developed a #strong[Python] script to set up test environments, reducing setup time by 30\% and streamlining ADB command usage.],[Trained and deployed AI models to predict relevant hotlists for issues, reducing the effort of bug triagers by 50\% and improving issue-tracking efficiency.],)
   ],
   right-content: [
     Banglore, KA
